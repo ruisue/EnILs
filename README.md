@@ -28,3 +28,4 @@ conda activate
 ## Usage
 ### Classifier:
   * train.py is the implemention of our model
+  * predict.py is used to predict new samples
